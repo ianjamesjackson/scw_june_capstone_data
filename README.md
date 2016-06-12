@@ -44,3 +44,5 @@ df.plot(x = 'something', y = 'something2', kind = 'type of plot')
 url:
 http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
 
+Testing the git 
+
